@@ -5,3 +5,4 @@ When clicking 3 you can see the rules and they are :
 - You can give only the max of 100 Dabloons per video
 - You can't give Dabloons you don't have
 - If someone breaks the rules, report them to the Dabloon Police officers
+file will be updated soon so don't download yet
