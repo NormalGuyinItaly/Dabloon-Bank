@@ -7,3 +7,5 @@ When clicking 3 you can see the rules and they are :
 - If someone breaks the rules, report them to the Dabloon Police officers
 
 file will be updated soon so don't download yet
+
+now it's updated
